@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/16r7mj8da_QOI6ts7XXDPGcb0mzScs_jK?usp=sh
 2) OpenAI Pong-v0 task implementation                        
 https://colab.research.google.com/drive/1m15nxAv1QBJTB7Akznznx8V-R13O67g2?usp=sharing
 
-3) OpenAI DemonAttack-v0 task implementation
+3) OpenAI DemonAttack-v0 task implementation                        
 https://colab.research.google.com/drive/1U8ILfJqxXkLlM3PFS8z6NlBTF3EcEUj-?usp=sharing
 
 4) Задача поиска мошеннических операций                        
