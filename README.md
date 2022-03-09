@@ -24,3 +24,6 @@ https://colab.research.google.com/drive/1el6vwSBYPv_K1PptH4AWmlEKU06WyWJx?usp=sh
 
 8) Использование генетического алгоритма для оптимизации гиперпараметров нейронной сети
 https://colab.research.google.com/drive/1ilCpAm6PCe2J78WisYZMwRZYsdHQa-q2?usp=sharing
+
+9) Сравнение GAN и CGAN                                           
+https://colab.research.google.com/drive/1XsKswYnZqffATHL0KtfrqEZY6icaaCcG?usp=sharing
