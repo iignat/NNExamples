@@ -1,1 +1,1 @@
-docker build -t iignat/nnexamples -f DockerFile .
+docker build -t iignat/nnexamples .
