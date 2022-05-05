@@ -1,0 +1,6 @@
+version: "2"
+services:
+  nnexamples:
+    image: iignat/nnexamples:latest
+    ports:
+      - "80:80"

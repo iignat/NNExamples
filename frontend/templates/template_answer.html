@@ -1,0 +1,17 @@
+
+    {% include "header.html" %}
+    <div style="text-align:center;margin-left:auto;margin-right:auto;" id="enJS">
+        <button style="margin-left: auto;margin-right: auto;width:300px" class="file-upload-btn" type="button" onclick="location.reload();">Back</button>
+        <div class="image-upload-wrap">
+            <img src="data:image/jpeg;charset=utf-8;base64,{{processed_image}}" alt="ups...">
+        </div>
+    </div>
+    <div style="text-align:center;margin-left:auto;margin-right:auto;" id="noJS">
+        <form action="/" method="GET">
+            <input style="margin-left: auto;margin-right: auto;width:300px" class="file-upload-btn" type="Submit" value="Back">
+        </form>
+        <div class="image-upload-wrap">
+            <img src="data:image/jpeg;charset=utf-8;base64,{{processed_image}}" alt="ups...">
+        </div>
+    </div>
+    {% include "footer.html" %}
