@@ -1,5 +1,13 @@
-# NNExamples
-Examples of xNN and genetic algorithms implementation 
+# How to use
+Docker image can be found here: https://hub.docker.com/r/iignat/nnexamples
+
+Run command:
+
+docker run -t --rm -p 80:80 iignat/nnexamples
+
+next, just visit http://localhost
+
+#Learning process and algorithms implementation with (c)Google Colab 
 
 1) OpenAI  CarRacing-v0 task implementation                        
 https://colab.research.google.com/drive/16r7mj8da_QOI6ts7XXDPGcb0mzScs_jK?usp=sharing
